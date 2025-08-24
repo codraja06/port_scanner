@@ -49,7 +49,7 @@ Enter the Target IP (or) Hostname: google.com
 
 Enter the port range (e.g., '1-456'): 20-100
 
-[+] Scanning scanme.nmap.org...
+[+] Scanning google.com...
 
 [+] Port 80 is OPEN
 ```
