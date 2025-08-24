@@ -34,12 +34,23 @@ python3 port_scanner.py
 ```
 Example:
 ```
-Enter the Target IP (or) Hostname: scanme.nmap.org
+  _____           _           _____                                 
+ |  __ \         | |         / ____|                                
+ | |__) ___  _ __| |_       | (___   ___ __ _ _ __  _ __   ___ _ __ 
+ |  ___/ _ \| '__| __|       \___ \ / __/ _` | '_ \| '_ \ / _ | '__|
+ | |  | (_) | |  | |_        ____) | (_| (_| | | | | | | |  __| |   
+ |_|   \___/ |_|   \__|      |_____/ \___\__,_|_| |_|_| |_|\___|_|   
+
+======================================================================
+
+                Created by 'codwolf
+
+Enter the Target IP (or) Hostname: google.com
+
 Enter the port range (e.g., '1-456'): 20-100
 
 [+] Scanning scanme.nmap.org...
 
-[+] Port 22 is OPEN
 [+] Port 80 is OPEN
 ```
 
